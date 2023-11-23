@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/main_scene.unity
+    guid: 6187439020ed5ea43aa082998ecc328e
+  - enabled: 1
+    path: Assets/Scenes/1_main_scene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/2_Earth.unity
+    guid: ac5a7e9035153e940a06fb7be54f59ad
+  - enabled: 1
+    path: Assets/Scenes/2_Earth_Model.unity
+    guid: 5226bed847bc4dd45a522d35629a451f
+  - enabled: 1
+    path: Assets/Scenes/3_Mars.unity
+    guid: 7a5f586f683fe38459723872b53c74da
+  - enabled: 1
+    path: Assets/Scenes/4_Mercury.unity
+    guid: b32d2339099199345a736884063d9c49
+  - enabled: 1
+    path: Assets/Scenes/5_Jupiter.unity
+    guid: dfb25ea50418bac4ca87a1de34f3c6ba
+  - enabled: 1
+    path: Assets/Scenes/6_Saturn.unity
+    guid: 75c48c3a91f2d2f44878c32741dd2286
+  - enabled: 1
+    path: Assets/Scenes/7_Neptune.unity
+    guid: 04ce3c8b4a0e84b44bceb124a67ac894
+  - enabled: 1
+    path: Assets/Scenes/3_Mars_Model.unity
+    guid: 34b2b8b33b348bb43bc7d430c7863a34
+  - enabled: 1
+    path: Assets/Scenes/4_Mercury_Model.unity
+    guid: 6a8e06cc75a13354f80caf2b4747b283
+  - enabled: 1
+    path: Assets/Scenes/5_Jupiter_Model.unity
+    guid: 81235fbf97613cd4cb389643b961bcb4
+  - enabled: 1
+    path: Assets/Scenes/8_Uranus_Model.unity
+    guid: e5fdaef04463e18408f975c447e786b3
+  - enabled: 1
+    path: Assets/Scenes/9_Venus_Model.unity
+    guid: 527e80fa5c8140e48bb1578edfcaa06c
+  - enabled: 1
+    path: Assets/Scenes/7_Neptune_Model.unity
+    guid: 8c04e375ec4dced46b3cfd7e7c2260e3
+  - enabled: 1
+    path: Assets/Scenes/6_Saturn_Model.unity
+    guid: cc65f315deaa3a54dac1b9ecbd69459b
+  - enabled: 1
+    path: Assets/Scenes/8_Uranus.unity
+    guid: 2252b13d0b79b744fbddf1f6c9d0b204
+  - enabled: 1
+    path: Assets/Scenes/9_Venus.unity
+    guid: 7dcb0ec62c6cebc41aa073b36123342b
+  - enabled: 1
+    path: Assets/Scenes/tum_sistem_scene.unity
+    guid: 9ce2c488c2f18a54b969e76fb4c3f4ae
+  - enabled: 1
+    path: Assets/Scenes/karsilastirma_sahneleri/karsilastirma_jupiter.unity
+    guid: f08850e40cd4da445a59843cf4120b59
+  - enabled: 1
+    path: Assets/Scenes/karsilastirma_sahneleri/karsilastirma_main_scene.unity
+    guid: 8415fccf918eb5d42ae5c6b129015dad
+  - enabled: 1
+    path: Assets/Scenes/sorular/10.1_quizScene.unity
+    guid: 8f1e3ce46e9ab7642bb1c8f2bbe04b9e
+  - enabled: 1
+    path: Assets/Scenes/sorular/10.2_quizScene.unity
+    guid: 0b6f10bb42f4bbc4c81cfb7c3d89a509
+  - enabled: 1
+    path: Assets/Scenes/sorular/10.3_quizScene.unity
+    guid: 25999ca2ff043ae418a55ca2df58031d
+  - enabled: 1
+    path: Assets/Scenes/sorular/10.4_quizScene.unity
+    guid: 1fd485e31e63b0d4eaddb08f41f52ea1
+  - enabled: 1
+    path: Assets/Scenes/sorular/10.5_quizScene.unity
+    guid: ebf7da5c137061148b92ab3a40dfab35
+  - enabled: 1
+    path: Assets/Scenes/sorular/10.6_quizScene.unity
+    guid: 74562beca209cc147b906510a08124e0
+  - enabled: 1
+    path: Assets/Scenes/karsilastirma_sahneleri/karsilastirma_mars.unity
+    guid: e686b6bb5c7ef674eb700b9c93871e8c
+  - enabled: 1
+    path: Assets/Scenes/karsilastirma_sahneleri/karsilastirma_mercury.unity
+    guid: 619ce7ff7d158e7469e85cb543543cb5
+  - enabled: 1
+    path: Assets/Scenes/karsilastirma_sahneleri/karsilastirma_neptune.unity
+    guid: eb14bebd9f19e4143a09cf4105c25f77
+  - enabled: 1
+    path: Assets/Scenes/karsilastirma_sahneleri/karsilastirma_saturn.unity
+    guid: f4e021deb082cd942ac412996268a45d
+  - enabled: 1
+    path: Assets/Scenes/karsilastirma_sahneleri/karsilastirma_venus.unity
+    guid: b71c954f62f22a644ae2ffd8db24f64f
+  - enabled: 1
+    path: Assets/Scenes/karsilastirma_sahneleri/karsilastirma_uranus.unity
+    guid: ffa7d7f46a3581849b2ef1e7ad783d84
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 70ccb68bfe306ae4f96246fe50215c60, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6a7e240b4877538459d9bd4a2b446921, type: 2}
