@@ -17,7 +17,7 @@ Bu, proje kullanıcıların AR (arttırılmış gerçeklik) teknolojisi ile Gün
 
 # Hazırlayanlar
 <ul>
-  <li>Yunus Emre Akyay</li>
+  <a href="https://www.github.com/irukaEmreim"><li>Yunus Emre Akyay</li> </a> 
   <li>Tunahan Çolak</li>
   <li>Erdem Karadeniz</li>
 </ul>
